@@ -1,0 +1,20 @@
+   {
+      "id": "dc98",
+      "courses": [
+        "java",
+        "python"
+      ],
+      "phone": "452",
+      "name": "Naveen",
+      "location": "blr"
+    },
+    {
+      "id": "2e88",
+      "courses": [
+        "java",
+        "python"
+      ],
+      "phone": "452",
+      "name": "Naveen",
+      "location": "blr"
+    }
